@@ -131,5 +131,3 @@ All submissions must be made through GitHub with a timestamp by 11:59pm on 12.2.
 Note that each group only needs to submit one file. <br/>
 
 This project would typically be conducted over a two-week timeline, which would give you more time to focus on your final projects. However, I do not want to require people to work over the break. Given the pending break and final projects, I will give up to 5 bonus points to teams that submit their projects early. Starting November 27, you will get one bonus point per day early. As GitHub allows you to submit continuously, please send me an email (one per group with all team members CC'ed) after submiting your project (commit AND push) letting me know you've submitted your project early to receive the bonus points.  
-
-This is a test
